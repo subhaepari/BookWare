@@ -1,0 +1,188 @@
+
+
+.logo {
+font-size:60px;
+font-weight: 600;
+letter-spacing: 1;
+text-shadow: 8px 8px 8px white;
+margin-bottom: 0;
+padding-top: 30px;
+padding-left: 60px;
+padding-bottom: 0px;
+}
+
+.logo-foot {
+font-weight: 300;
+font-size: 2;
+padding-top: 0px;
+padding-left: 150px;
+}
+
+
+#home-main-div, #author-main-div, #books-main-div {
+
+  min-height: 100vh; 
+
+  background-image: linear-gradient(
+    rgb(38, 203, 186),
+    white,
+    white,
+    white,
+    rgb(38, 203, 186)
+  );
+
+  padding-bottom: 50px;
+
+}
+
+
+#home-main-inner-div{
+  
+  width: 80vw;
+  
+  border-width: 10px;
+  border-style: double ;
+  border-radius: 20px;
+  border-color: rgb(237, 176, 63);
+  margin: auto;
+  margin-top: 50px;
+
+  }
+
+  
+  
+.home-line-div{
+  width: 80vw;
+  margin: auto;
+  padding-top: 30px;
+  font-size:30px;
+  font-style:italic;
+  font-family: "Cursive", "Lucida Handwriting";
+}
+
+
+.page-heading-line-div{
+  margin-left:40px;
+  font-weight: 300;
+  background-color: rgb(228, 173, 72);
+  padding: 2px;
+  border-radius:20px;
+  width: 420px;
+}
+ 
+.offcanvas-heading-line{
+
+  background-color: rgb(228, 173, 72);
+  padding: 5px;
+  border-radius:10px;
+
+}
+
+
+#header-nav-bar input[type=search]{
+  width:350px !important;
+}
+
+
+  #author-list-div{
+    margin:40px;
+    margin-top:20px;
+    padding: 40px;
+    border-width: 10px;
+    border-style: double ;
+    border-radius: 20px;
+    border-color: rgb(237, 176, 63);
+
+  }
+
+  #authors-accordian{
+ 
+     border-radius: 30px;
+
+  }
+
+
+  #authors-accordian-item{
+/* 
+    border-color: rgb(6, 102, 96);
+    border-radius: 30px; */
+    /* margin-bottom: 20px; */
+
+    
+  }
+
+  #authors-accordian-header-div{
+
+    border-color: rgb(6, 102, 96);
+    border-radius: 30px;
+    background: rgb(47, 229, 232) !important;
+    /* margin-bottom: 20px; */
+    
+  }
+  #authors-accordian-body{
+
+    border-color: rgb(6, 102, 96);
+    border-radius: 30px;
+    /* margin-bottom: 20px; */
+
+    
+  }
+
+  #books-layout-div{
+
+    /* box-sizing: border-box; */
+    
+    width: 98vw;
+    border-width: 10px;
+    border-style: double ;
+    border-radius: 20px;
+    border-color: rgb(237, 176, 63);
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    }
+
+
+
+#card-tab-nav .nav-link.active {
+  color: rgb(1, 33, 36) !important;
+  background-color: rgb(47, 229, 232) !important;
+  height: 30px;
+  font-size: smaller;
+
+}
+
+
+#card-tab-nav .nav-link {
+  color: rgb(3, 97, 105)!important;
+  background-color:  rgb(171, 240, 241) !important;
+  height: 30px;
+  font-size: smaller !important;
+  margin: 5px !important;
+}
+
+
+.book-card{
+  /* height: 180px; */
+  /* max-height: 150px; */
+}
+
+.book-card-summary{
+  font-size: smaller;
+  overflow-y: scroll; 
+  height: 144px;
+}
+
+.book-card-actions{
+  height: 144px;
+}
+
+.custom-button{  
+  border-width: 5px;
+  border-radius: 10px;
+  border-color: rgb(237, 176, 63);
+  background-color: white;
+}
