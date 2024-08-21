@@ -4,6 +4,9 @@ A Full-Stack Application to Explore the Offerings in a Simple Bookstore.
 
 It allows bookstore employees to internally manage the books carried by the bookstore.
 
+Key resources or entities in the application are Authors,Genres and Books
+Every book has reference to an Author and a Genre.
+
 ## Technology Stack:
 - Back-End:
   - Node.js Express framework to build the REST API web server.
@@ -62,6 +65,13 @@ Using MySQL database with this schema:
 
 
 ## BookWare UI
+
+The UI provides a console to manage the key entities in the application - Authors,Genres and Books.
+
+
+
+
+
 
 
 ## Running the Application
