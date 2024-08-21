@@ -77,11 +77,12 @@ UI is completely responsive to different screen sizes.
 
 ### Authors Page
 
+<img width="1509" alt="BookWare Authors Page" src="https://github.com/user-attachments/assets/7501eb5a-c4ee-4794-b696-c27f8042ca56">
 <img width="1504" alt="BookWare - Edit Author Offcanvas" src="https://github.com/user-attachments/assets/e3784ac8-b558-48fd-8ad5-95d32194f6c8">
-<img width="499" alt="Screenshot 2024-07-18 at 12 32 44 PM" src="https://github.com/user-attachments/assets/0af5cabe-2b98-4e4d-ad50-b4837feafb46">
 <img width="499" alt="BookWare Authors Small Header open" src="https://github.com/user-attachments/assets/d4d2d14b-823f-4446-9d7f-7e5e516f609f">
 <img width="496" alt="BookWare Authors Small" src="https://github.com/user-attachments/assets/06cf5b8a-2368-40ef-a2e2-0fb338019030">
-<img width="1509" alt="BookWare Authors Page" src="https://github.com/user-attachments/assets/7501eb5a-c4ee-4794-b696-c27f8042ca56">
+<img width="499" alt="Screenshot 2024-07-18 at 12 32 44 PM" src="https://github.com/user-attachments/assets/0af5cabe-2b98-4e4d-ad50-b4837feafb46">
+
 
 
 
@@ -89,12 +90,14 @@ UI is completely responsive to different screen sizes.
 
 
 
-<img width="541" alt="BookWare - Books small screen" src="https://github.com/user-attachments/assets/5e35c299-02d6-4734-8c67-20d537c5a480">
 <img width="1508" alt="BookWare Books Page Default" src="https://github.com/user-attachments/assets/66d63cc4-8418-44bf-b01f-cbe200185d79">
 <img width="1506" alt="BookWare Books Page" src="https://github.com/user-attachments/assets/06721ba8-f610-44ab-acd4-db94d318a10e">
+
+<img width="1508" alt="BookWare - Add Book Offcanvas" src="https://github.com/user-attachments/assets/08d6ca01-412b-4961-9a4d-313a1a8b9d45">
+
 <img width="536" alt="BookWare Books Header Open -small screen" src="https://github.com/user-attachments/assets/6833ee77-5909-436c-94a3-2e1b2fae0164">
 <img width="530" alt="BookWare - Books - Header closed small screen" src="https://github.com/user-attachments/assets/d687921e-501c-400f-a570-a00633723842">
-<img width="1508" alt="BookWare - Add Book Offcanvas" src="https://github.com/user-attachments/assets/08d6ca01-412b-4961-9a4d-313a1a8b9d45">
+<img width="541" alt="BookWare - Books small screen" src="https://github.com/user-attachments/assets/5e35c299-02d6-4734-8c67-20d537c5a480">
 
 
 
