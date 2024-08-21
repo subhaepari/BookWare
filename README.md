@@ -44,15 +44,18 @@ Sample data is seeded into the database using Sequelize API.
 
 Using MySQL database with this schema:
 
-1. BooksTable:
+1. Books Table:
    - book_id (Primary Key)
    - title (VARCHAR)
-   - author_id (Foreign Key referencing the Authors table) o genre_id (Foreign Key referencing the Genres table) o price (DECIMAL)
+   - author_id (Foreign Key referencing the Authors table) 
+   - genre_id (Foreign Key referencing the Genres table)
+   - price (DECIMAL)
    - publication_date (DATE)
-2. AuthorsTable:
-   - author_id (Primary Key) o name (VARCHAR)
+2. Authors Table:
+   - author_id (Primary Key)
+   - name (VARCHAR)
    - biography (TEXT)
-3. GenresTable:
+3. Genres Table:
    - genre_id (Primary Key)
    - genre_name (VARCHAR)
 
