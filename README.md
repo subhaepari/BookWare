@@ -117,7 +117,7 @@ UI is completely responsive to different screen sizes.
 
 If running the server for first time, or if you want to recreate the tables, you will need to do the following in app.js:
 - pass {force:true} in the sequelize.sync() call.
-- uncomment the code to sync data.
+- uncomment the code to seed sample data.
 
 On the command prompt, you can run:
 - cd %home-dir%/BookWare/bookware-server
