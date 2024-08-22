@@ -105,14 +105,19 @@ UI is completely responsive to different screen sizes.
 
 ## Running the Application
 
-##### Setting up database:
-Install MySQL Server
-Install MySQL Workbench
-Create credentials, update the database connection string in the code
+#### Setting up database:
 
-Create a database with name: 
+- Install MySQL Server
+- Install MySQL Workbench
+- Create credentials, update the database connection string in models/db.js
 
-##### Starting the Server:
+- Create a database with name: bookstore
+
+#### Starting the Server:
+
+If running the server for first time, or if you want to recreate the tables, you will need to do the following in app.js:
+- pass {force:true} in the sequelize.sync() call.
+- uncomment the code to sync data.
 
 On the command prompt, you can run:
 - cd %home-dir%/BookWare/bookware-server
@@ -126,7 +131,7 @@ Output:
       Models synchronized successfully.
 
 
-##### Starting the UI:
+#### Starting the UI:
 
 On the command prompt, you can run:
 - cd %home-dir%/BookWare/bookware-ui
@@ -142,15 +147,4 @@ You may also see any lint errors in the console.
 
 
 
-
-
-
-      
-
-
-
-
-
-
-  
 
