@@ -105,6 +105,41 @@ UI is completely responsive to different screen sizes.
 
 ## Running the Application
 
+##### Setting up database:
+Install MySQL Server
+Install MySQL Workbench
+Create credentials, update the database connection string in the code
+
+Create a database with name: 
+
+##### Starting the Server:
+
+On the command prompt, you can run:
+- cd %home-dir%/BookWare/bookware-server
+- npm start
+
+Output:
+      [nodemon] starting `node app.js`
+      Server is running on port 3000
+      ...
+      ...
+      Models synchronized successfully.
+
+
+##### Starting the UI:
+
+On the command prompt, you can run:
+- cd %home-dir%/BookWare/bookware-ui
+- npm start
+
+Will ask to start on a new port mostly 3001, as default port 3000 is used by the server.
+ 
+Runs the app in the development mode.
+Open http://localhost:3001 to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
 
 
 
